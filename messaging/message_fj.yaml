@@ -1,0 +1,12 @@
+id: QmSsgUbTvJJ1gQNxkZy2HteBLv3X6LrbHeMEbStpkMCuxr
+description: ddd
+tags: []
+local: false
+channel:
+    regex: false
+    match: dd
+bridges:
+    mqtt:
+        enable: true
+    websocket:
+        enable: true
