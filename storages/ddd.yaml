@@ -1,0 +1,10 @@
+id: QmYyE2Ye6z6WwjR12K3vApBXdaXxES2RqQ1nFfu3kx9hra
+description: ""
+tags: []
+match: feng
+useRegex: false
+access:
+    network: all
+object:
+    versioning: true
+    size: 1MB
